@@ -1,0 +1,15 @@
+# C++ Builder Build Folders
+Win32/
+Win64/
+Debug/
+Release/
+
+# Temporary and compiled files
+*.obj
+*.o
+*.exe
+*.tds
+*.map
+*.local
+*.identcache
+*.stat
